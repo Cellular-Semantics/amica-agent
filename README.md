@@ -1,3 +1,14 @@
+> **⚠️ Project Relocated**
+>
+> Development of **AMICA** has moved to a new consolidated repository:
+>
+> 👉 **https://github.com/Cellular-Semantics/amica**
+>
+> This repository (`amica-agent`) is now archived and no longer maintained.  
+> Please use the new repo for all current code, documentation, and issues.
+
+
+
 # AMICA: Agentic Dataset Annotator
 
 [![Release](https://img.shields.io/github/v/release/Cellular-Semantics/amica-agent)](https://img.shields.io/github/v/release/Cellular-Semantics/amica-agent)
